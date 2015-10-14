@@ -51,7 +51,7 @@ And Michael travels from Barbican to Balham,
 And Michael travels from Balham to Bison,
 Michael will be charged £3 for his first journey,  
 And a further £3.00 for his second journey,  
-And a further £2 for his third journey. (As he will have reached his day cap)
+And a further £2 for his third journey. (As he will have reached his day cap)    
 And a further £0.00 for any additional journies within the day
 
 Credit for the original design of this kata to [Amir Bazazi](https://github.com/amiralibazazi)
