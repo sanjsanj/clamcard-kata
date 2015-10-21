@@ -39,6 +39,11 @@ Given Michael has a ClamCard,
 And Michael travels from Asterisk to Aldgate,  
 Michael will be charged £2.50 for his journey.
 
+Given Michael has a CLamCard,
+And Michael travels from Asterisk to Aldgate,
+And Michael travels from Aldgate to Antelope,
+Then Michael will be charged a total of 5.00
+
 Given Michael has a ClamCard,  
 And Michael travels from Asterisk to Barbican,  
 And Michael travels from Barbican to Balham,  
